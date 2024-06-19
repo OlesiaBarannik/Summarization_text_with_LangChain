@@ -2,3 +2,5 @@ langchain
 langchain-openai
 textwrap3
 python-dotenv
+fastapi
+uvicorn
